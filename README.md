@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gmpatton99
+- 👀 I’m interested in ... video games, 'attempting' to write code, and photography!
+- 🌱 I’m currently learning ... Python! This is the language being used in my first programming class as I have just switched majors over to Computer Science!
+- 💞️ I’m looking to collaborate on ... not sure, just want to develop my skills more and more!
+- 📫 How to reach me ... message me on here!
